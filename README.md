@@ -53,7 +53,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Zephyr's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ze6hyr&show_icons=true&theme=radical" alt="Zephyr's GitHub stats"/>
 </p>
 
 ---
