@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Xami — Laravel + TALL Stack Developer
+# 👋 Hey there, I'm Zephyr — Laravel + TALL Stack Developer
 
 I'm a backend-focused web developer who specializes in building **modern, fast, and scalable apps** using the **Laravel TALL stack** — Tailwind CSS, Alpine.js, Laravel, and Livewire.
 
@@ -27,13 +27,13 @@ PHP • MySQL • Git • FilamentPHP • REST APIs • Linux (Arch 🐧) • Do
 
 ## 📂 Featured Projects
 
-🔹 **[Laravel SaaS Admin Panel](https://github.com/yourusername/laravel-saas-admin)**  
+🔹 **[Laravel SaaS Admin Panel](https://github.com/ze6hyr/laravel-saas-admin)**  
 Built with Laravel + Livewire + Tailwind — includes auth, user roles, dynamic dashboards.
 
-🔹 **[TALL Stack CRM](https://github.com/yourusername/tall-crm-app)**  
+🔹 **[TALL Stack CRM](https://github.com/ze6hyr/tall-crm-app)**  
 A mini CRM using Livewire components, role-based access, and Tailwind UI elements.
 
-🔹 **[Laravel REST API Starter](https://github.com/yourusername/laravel-api-boilerplate)**  
+🔹 **[Laravel REST API Starter](https://github.com/ze6hyr/laravel-api-boilerplate)**  
 Sanctum-authenticated API with testing, token auth, and simple frontend consumption.
 
 > 💡 Want to see more? Check out my pinned repositories below 👇
@@ -53,7 +53,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Xami's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Zephyr's GitHub stats"/>
 </p>
 
 ---
