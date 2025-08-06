@@ -1,45 +1,68 @@
-- 👋 Hi, I’m @ze6hyr
-- 👀 I’m interested in coding, server side.
-# Laravel SaaS Admin Panel 🚀
+# 👋 Hey there, I'm Xami — Laravel + TALL Stack Developer
 
-A modern admin dashboard built with the **TALL stack** – Tailwind CSS, Alpine.js, Laravel, and Livewire.  
-Includes multi-user authentication, real-time status updates, and clean UI components using Tailwind.
+I'm a backend-focused web developer who specializes in building **modern, fast, and scalable apps** using the **Laravel TALL stack** — Tailwind CSS, Alpine.js, Laravel, and Livewire.
 
-## 🔥 Features
+I build:
 
-- 🧠 Built with **Laravel 10**, **Livewire**, **Alpine.js**
-- 🎨 Fully responsive **Tailwind CSS** layout
-- 🔐 Authentication (Login, Register, Forgot Password)
-- 👥 User Roles & Permissions (Admin/User)
-- 📊 Dynamic Dashboard (Stats, Charts, Tables)
-- ⚙️ CRUD for Users, Products, Orders (Livewire-powered)
-- 📦 REST API with Sanctum (ready for frontend/mobile)
-- 📁 Modular and clean file structure (easy to scale)
-- 🧪 PHPUnit tests for major features
+- 🛠️ **Custom Web Applications**
+- 📊 **Admin Dashboards**
+- 🛍️ **Ecommerce Solutions**
+- 🧪 **APIs for mobile and SPA frontends**
+- ⚡ Lightning-fast **UI experiences with Livewire + Alpine**
 
-## 📸 Screenshots
-
-| Login Page | Dashboard | User CRUD |
-|------------|-----------|-----------|
-| ![Login](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) | ![CRUD](screenshots/user-crud.png) |
+---
 
 ## 🚀 Tech Stack
 
-- PHP 8.2 + Laravel 10
-- Tailwind CSS 3
-- Livewire 3
-- Alpine.js
-- MySQL (or SQLite)
-- Filament (optional, for admin panel)
+**Main Stack**  
+![Laravel](https://img.shields.io/badge/-Laravel-EF3A38?logo=laravel&logoColor=white&style=flat)  
+![Livewire](https://img.shields.io/badge/-Livewire-4E5D94?logo=livewire&style=flat)  
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)  
+![Alpine.js](https://img.shields.io/badge/-Alpine.js-77C1D2?logo=javascript&style=flat)
 
-## 🛠️ Setup Locally
+**Also Comfortable With**  
+PHP • MySQL • Git • FilamentPHP • REST APIs • Linux (Arch 🐧) • Docker (basic use) • Composer
 
-```bash
-git clone https://github.com/your-username/laravel-saas-admin.git
-cd laravel-saas-admin
-cp .env.example .env
-composer install
-php artisan key:generate
-php artisan migrate --seed
-npm install && npm run dev
-php artisan serve
+---
+
+## 📂 Featured Projects
+
+🔹 **[Laravel SaaS Admin Panel](https://github.com/yourusername/laravel-saas-admin)**  
+Built with Laravel + Livewire + Tailwind — includes auth, user roles, dynamic dashboards.
+
+🔹 **[TALL Stack CRM](https://github.com/yourusername/tall-crm-app)**  
+A mini CRM using Livewire components, role-based access, and Tailwind UI elements.
+
+🔹 **[Laravel REST API Starter](https://github.com/yourusername/laravel-api-boilerplate)**  
+Sanctum-authenticated API with testing, token auth, and simple frontend consumption.
+
+> 💡 Want to see more? Check out my pinned repositories below 👇
+
+---
+
+## 🧠 About Me
+
+- 🔭 I’m currently open for **remote Laravel contracts or freelance projects**
+- 📫 Email me: `your.email@example.com`
+- 🌍 Location: Pakistan (working with US/EU clients timezone-flexible)
+- 🧠 Learning more about: advanced queue systems, Laravel Octane, multi-tenancy SaaS
+- 🛠️ Building tools that are fast, clean, and actually useful
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Xami's GitHub stats"/>
+</p>
+
+---
+
+## 💼 Let’s Work Together
+
+If you’re building a **Laravel app**, want to modernize your **WordPress/PHP codebase**, or need a dev who understands **Livewire, Tailwind, and Alpine** deeply — I'm ready.
+
+📨 DM me on [Twitter](https://twitter.com/yourhandle) or [Email](mailto:your.email@example.com)
+
+---
+
