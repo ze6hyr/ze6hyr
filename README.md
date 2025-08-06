@@ -50,6 +50,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 
 ---
 
+<!--
 ## 📈 GitHub Stats
 
 <p align="center">
@@ -57,6 +58,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 </p>
 
 ---
+-->
 
 ## 💼 Let’s Work Together
 
