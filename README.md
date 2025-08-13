@@ -24,13 +24,13 @@ PHP • MySQL • Git • FilamentPHP • REST APIs • Linux (Arch 🐧) • Do
 
 ## 📂 Featured Projects
 
-🔹 **[Laravel SaaS Admin Panel](https://github.com/ze6hyr/laravel-saas-admin)**  
+🔹 **[Laravel SaaS Admin Panel](https://github.com/mmuzammilhassan/laravel-saas-admin)**  
 Built with Laravel + Livewire + Tailwind — includes auth, user roles, dynamic dashboards.
 
-🔹 **[TALL Stack CRM](https://github.com/ze6hyr/tall-crm-app)**  
+🔹 **[TALL Stack CRM](https://github.com/mmuzammilhassan/tall-crm-app)**  
 A mini CRM using Livewire components, role-based access, and Tailwind UI elements.
 
-🔹 **[Laravel REST API Starter](https://github.com/ze6hyr/laravel-api-boilerplate)**  
+🔹 **[Laravel REST API Starter](https://github.com/mmuzammilhassan/laravel-api-boilerplate)**  
 Sanctum-authenticated API with testing, token auth, and simple frontend consumption.
 <!---
 
