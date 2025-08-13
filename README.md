@@ -32,10 +32,13 @@ A mini CRM using Livewire components, role-based access, and Tailwind UI element
 
 🔹 **[Laravel REST API Starter](https://github.com/ze6hyr/laravel-api-boilerplate)**  
 Sanctum-authenticated API with testing, token auth, and simple frontend consumption.
+<!---
 
 > 💡 Want to see more? Check out my pinned repositories below 👇
 
+
 ---
+--->
 
 ## 🧠 About Me
 
