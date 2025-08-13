@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Zephyr — Laravel + TALL Stack Developer
+# 👋 Hey there, I'm Muzamml Hassan — Laravel + TALL Stack Developer
 
 I'm a backend-focused web developer who specializes in building **modern, fast, and scalable apps** using the **Laravel TALL stack** — Tailwind CSS, Alpine.js, Laravel, and Livewire.
 
@@ -40,7 +40,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 ## 🧠 About Me
 
 - 🔭 I’m currently open for **remote Laravel contracts or freelance projects**
-- 📫 Email me: `your.email@example.com`
+- 📫 Email me: **m.muzammil.hassan.dev@gmail.com**
 - 🌍 Location: Pakistan (working with US/EU clients timezone-flexible)
 - 🧠 Learning more about: advanced queue systems, Laravel Octane, multi-tenancy SaaS
 - 🛠️ Building tools that are fast, clean, and actually useful
@@ -61,7 +61,7 @@ Sanctum-authenticated API with testing, token auth, and simple frontend consumpt
 
 If you’re building a **Laravel app**, want to modernize your **WordPress/PHP codebase**, or need a dev who understands **Livewire, Tailwind, and Alpine** deeply — I'm ready.
 
-📨 DM me on [Twitter](https://twitter.com/yourhandle) or [Email](mailto:your.email@example.com)
+📨 DM me on [Twitter](https://twitter.com/yourhandle) or [Email](mailto:m.muzammil.hassan.dev@example.com)
 
 ---
 
